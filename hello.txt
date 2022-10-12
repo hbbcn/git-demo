@@ -14,4 +14,8 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git! master test
 hello atguigu! hello git! hot-fix test
+<<<<<<< Updated upstream
 1111111111111111111111111
+=======
+11111
+>>>>>>> Stashed changes
